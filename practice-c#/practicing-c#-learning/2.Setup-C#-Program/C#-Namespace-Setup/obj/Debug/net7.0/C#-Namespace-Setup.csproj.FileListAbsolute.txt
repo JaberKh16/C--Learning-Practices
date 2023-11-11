@@ -1,0 +1,14 @@
+/home/jaber/Documents/c#-learning/practice-c#/practicing-c#-learning/2.Setup-C#-Program/C#-Namespace-Setup/bin/Debug/net7.0/C#-Namespace-Setup
+/home/jaber/Documents/c#-learning/practice-c#/practicing-c#-learning/2.Setup-C#-Program/C#-Namespace-Setup/bin/Debug/net7.0/C#-Namespace-Setup.deps.json
+/home/jaber/Documents/c#-learning/practice-c#/practicing-c#-learning/2.Setup-C#-Program/C#-Namespace-Setup/bin/Debug/net7.0/C#-Namespace-Setup.runtimeconfig.json
+/home/jaber/Documents/c#-learning/practice-c#/practicing-c#-learning/2.Setup-C#-Program/C#-Namespace-Setup/bin/Debug/net7.0/C#-Namespace-Setup.dll
+/home/jaber/Documents/c#-learning/practice-c#/practicing-c#-learning/2.Setup-C#-Program/C#-Namespace-Setup/bin/Debug/net7.0/C#-Namespace-Setup.pdb
+/home/jaber/Documents/c#-learning/practice-c#/practicing-c#-learning/2.Setup-C#-Program/C#-Namespace-Setup/obj/Debug/net7.0/C#-Namespace-Setup.GeneratedMSBuildEditorConfig.editorconfig
+/home/jaber/Documents/c#-learning/practice-c#/practicing-c#-learning/2.Setup-C#-Program/C#-Namespace-Setup/obj/Debug/net7.0/C#-Namespace-Setup.AssemblyInfoInputs.cache
+/home/jaber/Documents/c#-learning/practice-c#/practicing-c#-learning/2.Setup-C#-Program/C#-Namespace-Setup/obj/Debug/net7.0/C#-Namespace-Setup.AssemblyInfo.cs
+/home/jaber/Documents/c#-learning/practice-c#/practicing-c#-learning/2.Setup-C#-Program/C#-Namespace-Setup/obj/Debug/net7.0/C#-Namespace-Setup.csproj.CoreCompileInputs.cache
+/home/jaber/Documents/c#-learning/practice-c#/practicing-c#-learning/2.Setup-C#-Program/C#-Namespace-Setup/obj/Debug/net7.0/C#-Namespace-Setup.dll
+/home/jaber/Documents/c#-learning/practice-c#/practicing-c#-learning/2.Setup-C#-Program/C#-Namespace-Setup/obj/Debug/net7.0/refint/C#-Namespace-Setup.dll
+/home/jaber/Documents/c#-learning/practice-c#/practicing-c#-learning/2.Setup-C#-Program/C#-Namespace-Setup/obj/Debug/net7.0/C#-Namespace-Setup.pdb
+/home/jaber/Documents/c#-learning/practice-c#/practicing-c#-learning/2.Setup-C#-Program/C#-Namespace-Setup/obj/Debug/net7.0/C#-Namespace-Setup.genruntimeconfig.cache
+/home/jaber/Documents/c#-learning/practice-c#/practicing-c#-learning/2.Setup-C#-Program/C#-Namespace-Setup/obj/Debug/net7.0/ref/C#-Namespace-Setup.dll

@@ -1,0 +1,21 @@
+C# Command Line For Working With C#
+===================================
+1) Check For Version  -   $ dotnet --version 
+2) Check Template Setup - $ dotnet new search [template/folername]
+3) Complie A File - 
+	a) With .dll builder - 
+		$ dotnet build -o [foldername] -- compiled filed with be stored there
+		$ dotnet run /[foldername]/[.dll] file
+
+	b) With Single Command -
+		$ dotnet run [.cs] file
+
+
+4) Create a template -
+	$ dotnet new console -n [template/foldername]
+
+5) Build Server -
+	$ dotnet build-server 
+
+6) Run a server watch mode -
+	$ dotnet run watch 

@@ -1,0 +1,42 @@
+C# Command Line For Working With C#
+===================================
+1) Check For Version  -   $ dotnet --version 
+2) Check Template Setup - $ dotnet new search [template/folername]
+3) Complie A File - 
+	a) With .dll builder - 
+		$ dotnet build -o [foldername] -- compiled filed with be stored there
+		$ dotnet run /[foldername]/[.dll] file
+
+	b) With Single Command -
+		$ dotnet run [.cs] file
+
+
+4) Create a template -
+	$ dotnet new console -n [template/foldername]
+
+5) Build Server -
+	$ dotnet build-server 
+
+6) Run a server watch mode -
+	$ dotnet run watch 
+
+
+7) Run Specific C# File -
+
+   The dotnet run command is typically used to run an entire project, not just a single file. If you want to run a 
+   specific C# file, you can use the dotnet script tool. Make sure you have it installed:
+
+	$ dotnet tool install -g dotnet-script
+
+   After installing dotnet-script, you can run your specific file using:
+
+	$ dotnet script 2.Setup-C#-Program/C#-Namespace-Setup/Program.cs
+
+  Ensure that your C# file has the necessary using statements and a Main method. The dotnet script tool simplifies the 
+  process of running C# scripts directly without the need for a full project setup.
+
+
+
+
+
+
