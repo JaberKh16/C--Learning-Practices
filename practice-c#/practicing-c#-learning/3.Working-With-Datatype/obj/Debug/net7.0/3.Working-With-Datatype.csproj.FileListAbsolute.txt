@@ -1,0 +1,14 @@
+/home/jaber/Documents/c#-learning/practice-c#/practicing-c#-learning/3.Working-With-Datatype/obj/Debug/net7.0/3.Working-With-Datatype.GeneratedMSBuildEditorConfig.editorconfig
+/home/jaber/Documents/c#-learning/practice-c#/practicing-c#-learning/3.Working-With-Datatype/obj/Debug/net7.0/3.Working-With-Datatype.AssemblyInfoInputs.cache
+/home/jaber/Documents/c#-learning/practice-c#/practicing-c#-learning/3.Working-With-Datatype/obj/Debug/net7.0/3.Working-With-Datatype.AssemblyInfo.cs
+/home/jaber/Documents/c#-learning/practice-c#/practicing-c#-learning/3.Working-With-Datatype/obj/Debug/net7.0/3.Working-With-Datatype.csproj.CoreCompileInputs.cache
+/home/jaber/Documents/c#-learning/practice-c#/practicing-c#-learning/3.Working-With-Datatype/bin/Debug/net7.0/3.Working-With-Datatype
+/home/jaber/Documents/c#-learning/practice-c#/practicing-c#-learning/3.Working-With-Datatype/bin/Debug/net7.0/3.Working-With-Datatype.deps.json
+/home/jaber/Documents/c#-learning/practice-c#/practicing-c#-learning/3.Working-With-Datatype/bin/Debug/net7.0/3.Working-With-Datatype.runtimeconfig.json
+/home/jaber/Documents/c#-learning/practice-c#/practicing-c#-learning/3.Working-With-Datatype/bin/Debug/net7.0/3.Working-With-Datatype.dll
+/home/jaber/Documents/c#-learning/practice-c#/practicing-c#-learning/3.Working-With-Datatype/bin/Debug/net7.0/3.Working-With-Datatype.pdb
+/home/jaber/Documents/c#-learning/practice-c#/practicing-c#-learning/3.Working-With-Datatype/obj/Debug/net7.0/3.Working-With-Datatype.dll
+/home/jaber/Documents/c#-learning/practice-c#/practicing-c#-learning/3.Working-With-Datatype/obj/Debug/net7.0/refint/3.Working-With-Datatype.dll
+/home/jaber/Documents/c#-learning/practice-c#/practicing-c#-learning/3.Working-With-Datatype/obj/Debug/net7.0/3.Working-With-Datatype.pdb
+/home/jaber/Documents/c#-learning/practice-c#/practicing-c#-learning/3.Working-With-Datatype/obj/Debug/net7.0/3.Working-With-Datatype.genruntimeconfig.cache
+/home/jaber/Documents/c#-learning/practice-c#/practicing-c#-learning/3.Working-With-Datatype/obj/Debug/net7.0/ref/3.Working-With-Datatype.dll
