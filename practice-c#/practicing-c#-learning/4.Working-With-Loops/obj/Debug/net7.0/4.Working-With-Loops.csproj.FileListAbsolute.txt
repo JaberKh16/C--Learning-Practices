@@ -1,0 +1,14 @@
+/home/jaber/Documents/c#-learning/practice-c#/practicing-c#-learning/4.Working-With-Loops/obj/Debug/net7.0/4.Working-With-Loops.GeneratedMSBuildEditorConfig.editorconfig
+/home/jaber/Documents/c#-learning/practice-c#/practicing-c#-learning/4.Working-With-Loops/obj/Debug/net7.0/4.Working-With-Loops.AssemblyInfoInputs.cache
+/home/jaber/Documents/c#-learning/practice-c#/practicing-c#-learning/4.Working-With-Loops/obj/Debug/net7.0/4.Working-With-Loops.AssemblyInfo.cs
+/home/jaber/Documents/c#-learning/practice-c#/practicing-c#-learning/4.Working-With-Loops/obj/Debug/net7.0/4.Working-With-Loops.csproj.CoreCompileInputs.cache
+/home/jaber/Documents/c#-learning/practice-c#/practicing-c#-learning/4.Working-With-Loops/bin/Debug/net7.0/4.Working-With-Loops
+/home/jaber/Documents/c#-learning/practice-c#/practicing-c#-learning/4.Working-With-Loops/bin/Debug/net7.0/4.Working-With-Loops.deps.json
+/home/jaber/Documents/c#-learning/practice-c#/practicing-c#-learning/4.Working-With-Loops/bin/Debug/net7.0/4.Working-With-Loops.runtimeconfig.json
+/home/jaber/Documents/c#-learning/practice-c#/practicing-c#-learning/4.Working-With-Loops/bin/Debug/net7.0/4.Working-With-Loops.dll
+/home/jaber/Documents/c#-learning/practice-c#/practicing-c#-learning/4.Working-With-Loops/bin/Debug/net7.0/4.Working-With-Loops.pdb
+/home/jaber/Documents/c#-learning/practice-c#/practicing-c#-learning/4.Working-With-Loops/obj/Debug/net7.0/4.Working-With-Loops.dll
+/home/jaber/Documents/c#-learning/practice-c#/practicing-c#-learning/4.Working-With-Loops/obj/Debug/net7.0/refint/4.Working-With-Loops.dll
+/home/jaber/Documents/c#-learning/practice-c#/practicing-c#-learning/4.Working-With-Loops/obj/Debug/net7.0/4.Working-With-Loops.pdb
+/home/jaber/Documents/c#-learning/practice-c#/practicing-c#-learning/4.Working-With-Loops/obj/Debug/net7.0/4.Working-With-Loops.genruntimeconfig.cache
+/home/jaber/Documents/c#-learning/practice-c#/practicing-c#-learning/4.Working-With-Loops/obj/Debug/net7.0/ref/4.Working-With-Loops.dll
