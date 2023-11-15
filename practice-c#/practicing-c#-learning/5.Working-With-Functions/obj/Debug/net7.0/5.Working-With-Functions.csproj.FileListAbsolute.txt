@@ -1,0 +1,14 @@
+/home/jaber/Documents/c#-learning/practice-c#/practicing-c#-learning/5.Working-With-Functions/obj/Debug/net7.0/5.Working-With-Functions.GeneratedMSBuildEditorConfig.editorconfig
+/home/jaber/Documents/c#-learning/practice-c#/practicing-c#-learning/5.Working-With-Functions/obj/Debug/net7.0/5.Working-With-Functions.AssemblyInfoInputs.cache
+/home/jaber/Documents/c#-learning/practice-c#/practicing-c#-learning/5.Working-With-Functions/obj/Debug/net7.0/5.Working-With-Functions.AssemblyInfo.cs
+/home/jaber/Documents/c#-learning/practice-c#/practicing-c#-learning/5.Working-With-Functions/obj/Debug/net7.0/5.Working-With-Functions.csproj.CoreCompileInputs.cache
+/home/jaber/Documents/c#-learning/practice-c#/practicing-c#-learning/5.Working-With-Functions/bin/Debug/net7.0/5.Working-With-Functions
+/home/jaber/Documents/c#-learning/practice-c#/practicing-c#-learning/5.Working-With-Functions/bin/Debug/net7.0/5.Working-With-Functions.deps.json
+/home/jaber/Documents/c#-learning/practice-c#/practicing-c#-learning/5.Working-With-Functions/bin/Debug/net7.0/5.Working-With-Functions.runtimeconfig.json
+/home/jaber/Documents/c#-learning/practice-c#/practicing-c#-learning/5.Working-With-Functions/bin/Debug/net7.0/5.Working-With-Functions.dll
+/home/jaber/Documents/c#-learning/practice-c#/practicing-c#-learning/5.Working-With-Functions/bin/Debug/net7.0/5.Working-With-Functions.pdb
+/home/jaber/Documents/c#-learning/practice-c#/practicing-c#-learning/5.Working-With-Functions/obj/Debug/net7.0/5.Working-With-Functions.dll
+/home/jaber/Documents/c#-learning/practice-c#/practicing-c#-learning/5.Working-With-Functions/obj/Debug/net7.0/refint/5.Working-With-Functions.dll
+/home/jaber/Documents/c#-learning/practice-c#/practicing-c#-learning/5.Working-With-Functions/obj/Debug/net7.0/5.Working-With-Functions.pdb
+/home/jaber/Documents/c#-learning/practice-c#/practicing-c#-learning/5.Working-With-Functions/obj/Debug/net7.0/5.Working-With-Functions.genruntimeconfig.cache
+/home/jaber/Documents/c#-learning/practice-c#/practicing-c#-learning/5.Working-With-Functions/obj/Debug/net7.0/ref/5.Working-With-Functions.dll
