@@ -37,7 +37,7 @@ class WorkWithFunction
         return summation;
     }
 
-  public int CallingFunctionOverloadingFunction(int number1, int number2, int number3, int operationResult = 0)
+    public int CallingFunctionOverloadingFunction(int number1, int number2, int number3, int operationResult = 0)
     {
         if (number1 % 2 == 0)
         {
